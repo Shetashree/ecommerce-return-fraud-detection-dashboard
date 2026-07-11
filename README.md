@@ -71,7 +71,7 @@ The dashboard enables business teams to:
 
 ```
 SQL/
-Images/
+Dashboard.png
 Dashboard.pbix
 README.md
 ```
