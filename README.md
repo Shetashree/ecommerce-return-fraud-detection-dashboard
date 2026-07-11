@@ -30,7 +30,7 @@ The dashboard enables business teams to:
 
 ## Dashboard
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
